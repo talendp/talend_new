@@ -1,0 +1,94 @@
+[ {
+  "baseItem" : {
+    "id" : "_3TlMgMy5Ee6fx86KYLd6pg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_g1DDsMspEe6Tf_iebHiRjQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_6fg2sMvtEe6Tf_iebHiRjQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Af7y8MvsEe6Tf_iebHiRjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Af7y8MvsEe6Tf_iebHiRjQ - ERP",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Af7y8MvsEe6Tf_iebHiRjQ - POS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_9jMwUMvQEe6Tf_iebHiRjQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Wa6hUaliEe6uMITmXFCS1Q",
+    "version" : "Latest",
+    "type" : "pattern"
+  }, {
+    "id" : "_g1DDsMspEe6Tf_iebHiRjQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_HRUbkMy6Ee6fx86KYLd6pg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_g1DDsMspEe6Tf_iebHiRjQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_LwTNANeqEe6z7ccBOviD1w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7avaMNexEe6z7ccBOviD1w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7avaMNexEe6z7ccBOviD1w - Public",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_lnu_YMpUEe6AXag9YXcEog",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_h8dDoMpYEe6AXag9YXcEog",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_s4I0MMr_Ee6AXag9YXcEog",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_pal6cKruEe61SMxY2BCUyQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]
